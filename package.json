@@ -1,0 +1,34 @@
+{
+  "name": "vcard-personal-portfolio",
+  "version": "1.0.0",
+  "description": "![GitHub repo size](https://img.shields.io/github/repo-size/AlizayAyesha/vcard-personal-portfolio) ![GitHub stars](https://img.shields.io/github/stars/AlizayAyesha/vcard-personal-portfolio?style=social) ![GitHub forks](https://img.shields.io/github/forks/AlizayAyesha/vcard-personal-portfolio?style=social) [![Twitter Follow](https://img.shields.io/twitter/follow/AlizayAyesha?style=social)](https://twitter.com/intent/follow?screen_name=AlizayAyesha) [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlizayAyesha/vcard-personal-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlizayAyesha/vcard-personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/AlizayAyesha/vcard-personal-portfolio#readme",
+  "dependencies": {
+    "next": "^16.0.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "recharts": "^3.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.2",
+    "typescript": "^5.9.3"
+  }
+}
