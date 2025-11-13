@@ -208,6 +208,8 @@ export default function Home() {
         if (preferredVoice) {
           responseUtterance.voice = preferredVoice
         }
+        // Adjust pitch to sound more male
+        responseUtterance.pitch = 0.7
 
         responseUtterance.onend = () => {
           console.log('AI response speech completed')
